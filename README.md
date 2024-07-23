@@ -1,4 +1,4 @@
-# Calculate Performance Efficiency Rating (PER) with Machine Learning in League of Legends (README)
+# League of Legends - Player Efficiency Rating (PER) using Machine Learning
 
 ## Introduction
 This project aims to evaluate player performance in League of Legends by calculating a Performance Efficiency Rating (PER) using data from the Riot Games API. The notebook explores data loading, preprocessing, model training, and evaluation to achieve this objective.
